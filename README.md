@@ -24,5 +24,5 @@ A Java-based Notification Dispatch System that demonstrates the Observer Design 
 - NotificationService.java
 
 ##LLD Diagram
-![notification_dispatch_system_LLD] (notification_dispatch_system_LLD.png)
+![notification_dispatch_system_LLD](notification_dispatch_system_LLD.png)
   
