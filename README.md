@@ -23,6 +23,6 @@ A Java-based Notification Dispatch System that demonstrates the Observer Design 
 - PushObserver.java
 - NotificationService.java
 
-  ##LLD Diagram
-  ![notification dispatch system](notification dispatch system.png)
+##LLD Diagram
+![notification dispatch system](notification dispatch system.png)
   
